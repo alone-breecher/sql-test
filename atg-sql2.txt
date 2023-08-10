@@ -1,0 +1,19 @@
+POST /ords/wwv_flow.accept?p_context=atgprint/login_desktop/679442428260 HTTP/1.1
+Host: print.atg.se
+Cookie: ORA_WWV_APP_105=ORA_WWV-wSBE6bV2lO8XzKxsPiD-iS74; dtCookie=v_4_srv_7_sn_3E863AAC2857819C4EC05BE89C2B2828_perc_100000_ol_0_mul_1_app-3Ae87e9c3f1f46dac7_1; rxVisitor=1691707624772F40H2O3N8GBUVMP3NIVDQVMKSL4PUA6F; dtPC=7$307624768_796h1vFKOSCKQBGMKCMFBNTQRSERIBSVQUCRJF-0e0; rxvt=1691709424790|1691707624779; dtSa=-
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://print.atg.se/ords/r/infocore_external/atgprint/login_desktop?session=679442428260
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Content-Length: 651
+Origin: https://print.atg.se
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Te: trailers
+Connection: close
+
+p_flow_id=105&p_flow_step_id=9999&p_instance=679442428260&p_debug=&p_request=LOGIN&p_reload_on_submit=S&p_page_submission_id=12893004371645975244253672610205229918&p_json=%7B%22pageItems%22%3A%7B%22itemsToSubmit%22%3A%5B%7B%22n%22%3A%22P9999_USERNAME%22%2C%22v%22%3A%22test%22%7D%2C%7B%22n%22%3A%22P9999_PASSWORD%22%2C%22v%22%3A%22ettets%22%7D%2C%7B%22n%22%3A%22P9999_REMEMBER%22%2C%22v%22%3A%5B%5D%7D%5D%2C%22protected%22%3A%22%2F9vky5iBvkZy7LeC7ZtD-w5v7q-munGHSoux_ckL2dMRaGQ4IiRJaCmUDgy2S5IjY9ljFtYdFT6NevJ8PE7xyxQ%22%2C%22rowVersion%22%3A%22%22%2C%22formRegionChecksums%22%3A%5B%5D%7D%2C%22salt%22%3A%2212893004371645975244253672610205229918%22%7D
